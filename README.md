@@ -8,6 +8,13 @@ Asistente de línea de comandos que traduce preguntas en español a consultas My
 - Una base de datos MySQL y una cuenta dedicada con permisos de lectura sobre las tablas o vistas autorizadas.
 - Ollama en ejecución con el modelo configurado.
 
+
+## El modelo
+
+Y recuerda, contra mejor sea el modelo, mejor será la interacción.
+Mi pruebas con qwen2.5-coder:1.5b han dado un resultado poco satisfactorio.
+El qwen2.5-coder:3b mucho mejor.
+
 ## Instalación
 
 ```bash
